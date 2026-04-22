@@ -1804,3 +1804,266 @@ Look for:
 ## 🔹 One-Line Summary
 
 > Integrity of capital markets ensures that financial markets operate fairly, transparently, and without manipulation or insider advantage.
+
+# 📊 Types of Markets (CFA Level 1)
+
+---
+
+## 🔹 Overview
+Financial markets are places where **buyers and sellers exchange financial assets**.
+
+> Think: “Different markets for different time horizons and purposes”
+
+---
+
+## 🔹 1. Capital Market (Long-Term)
+
+> Used for raising **long-term funds (> 1 year)**
+
+### Instruments:
+- Stocks (Equity)
+- Bonds (Long-term debt)
+
+### Example:
+- Buying shares of a company  
+
+---
+
+## 🔹 2. Money Market (Short-Term)
+
+> Used for **short-term funds (< 1 year)**
+
+### Instruments:
+- Treasury Bills  
+- Commercial Paper  
+- Certificates of Deposit  
+
+### Example:
+- Company borrowing for working capital  
+
+---
+
+## 🔹 3. Primary Market
+
+> Where **new securities are issued**
+
+### Example:
+- IPO (Initial Public Offering)
+
+👉 Company gets money directly  
+
+---
+
+## 🔹 4. Secondary Market
+
+> Where **existing securities are traded**
+
+### Example:
+- Stock exchanges  
+
+👉 Investors trade among themselves  
+
+---
+
+## 🔹 5. Equity Market
+
+> Market for **ownership securities**
+
+### Example:
+- Buying shares  
+
+👉 You become **owner**
+
+---
+
+## 🔹 6. Debt Market (Bond Market)
+
+> Market for **borrowed funds**
+
+### Example:
+- Government bonds  
+
+👉 You become **lender**
+
+---
+
+## 🔹 7. Derivatives Market
+
+> Market for **contracts based on underlying assets**
+
+### Instruments:
+- Futures  
+- Options  
+
+👉 Value depends on another asset  
+
+---
+
+## 🔹 8. Foreign Exchange (Forex) Market
+
+> Market for **currencies**
+
+### Example:
+- USD/INR trading  
+
+---
+
+## 🔹 Simple Analogy 🧠
+
+Think of markets like different shops 🏬:
+
+- Capital Market → Long-term investment shop  
+- Money Market → Short-term borrowing shop  
+- Equity Market → Ownership shop  
+- Debt Market → Lending shop  
+
+---
+
+## 🔹 Quick Summary Table
+
+| Market Type        | Purpose                | Time Horizon |
+|-------------------|------------------------|--------------|
+| Capital Market    | Long-term funding      | > 1 year     |
+| Money Market      | Short-term funding     | < 1 year     |
+| Primary Market    | New securities         | Varies       |
+| Secondary Market  | Trading existing       | Varies       |
+| Equity Market     | Ownership              | Long-term    |
+| Debt Market       | Borrowing/Lending      | Varies       |
+| Derivatives       | Risk management/spec   | Varies       |
+| Forex Market      | Currency exchange      | Short-term   |
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Capital vs Money = **Time-based**
+- Primary vs Secondary = **New vs Existing**
+- Equity vs Debt = **Owner vs Lender**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> **CMD-PSED-F**
+- Capital  
+- Money  
+- Primary  
+- Secondary  
+- Equity  
+- Debt  
+- Forex  
+
+---
+
+## 🔹 One-Line Summary
+
+> Financial markets are categorized based on time, instruments, and purpose of trading.
+
+# 📊 Financial Instrument (CFA Level 1)
+
+---
+
+## 🔹 Definition
+A **Financial Instrument** is:
+
+> A contract that represents a financial asset for one party and a financial liability (or equity) for another
+
+👉 In simple terms:  
+**It is a tradable financial document or agreement**
+
+---
+
+## 🔹 Simple Analogy
+Think of a loan agreement 📄:
+
+- You lend money → You have an asset  
+- Borrower owes money → Liability  
+
+👉 That agreement = **Financial Instrument**
+
+---
+
+## 🔹 Types of Financial Instruments
+
+### 1. Equity Instruments
+> Represent ownership
+
+- Shares (stocks)
+
+👉 You become **owner**
+
+---
+
+### 2. Debt Instruments
+> Represent borrowing
+
+- Bonds  
+- Loans  
+
+👉 You become **lender**
+
+---
+
+### 3. Derivative Instruments
+> Value derived from another asset
+
+- Futures  
+- Options  
+
+👉 Depends on underlying asset (stock, gold, etc.)
+
+---
+
+## 🔹 Key Features
+
+- Has **monetary value**
+- Can be **traded**
+- Creates:
+  - Asset for one party  
+  - Liability or equity for another  
+
+---
+
+## 🔹 Real-Life Examples
+
+- Buying shares → Equity instrument  
+- Government bond → Debt instrument  
+- Option contract → Derivative instrument  
+
+---
+
+## 🔹 CFA Insight 🧠
+
+Financial instruments are the **building blocks of financial markets**
+
+👉 All trading in markets = trading of instruments
+
+---
+
+## 🔹 Instrument vs Asset (Important)
+
+- **Asset** → What you own  
+- **Instrument** → The contract representing that asset  
+
+👉 Instrument is the **evidence/document**
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Identify:
+  - Ownership → Equity  
+  - Lending → Debt  
+  - Contract → Derivative  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Instrument = Financial contract
+
+---
+
+## 🔹 One-Line Summary
+
+> A financial instrument is a tradable contract that represents a financial claim between two parties.
