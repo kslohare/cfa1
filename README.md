@@ -982,3 +982,825 @@ Accumulated Depreciation = 18,000 × 2 = ₹36,000
 ## 🔹 One-Line Summary
 
 > Book value is the asset’s value after accounting for accumulated depreciation.
+
+# ⚖️ Ethics vs Trust (CFA Level 1)
+
+---
+
+## 🔹 1. What is Ethics?
+
+**Ethics** refers to:
+
+> A set of moral principles that guide what is right and wrong behavior
+
+👉 In CFA context:
+
+* Acting with **integrity**
+* Following **professional standards**
+* Putting **client interest first**
+
+---
+
+## 🔹 Simple Analogy
+
+Think of a doctor 👨‍⚕️:
+
+* Should treat patients honestly
+* Should not prescribe unnecessary medicine
+
+👉 This behavior is guided by **Ethics**
+
+---
+
+## 🔹 Key Points (Ethics)
+
+* Internal principles (comes from values)
+* Guides decision-making
+* Independent of others’ opinions
+* Required even when no one is watching
+
+---
+
+## 🔹 2. What is Trust?
+
+**Trust** refers to:
+
+> The confidence others have in your reliability and integrity
+
+👉 In CFA context:
+
+* Clients trusting you with their money
+* Investors believing your advice
+
+---
+
+## 🔹 Simple Analogy
+
+If a doctor consistently treats patients well:
+
+👉 Patients start believing:
+
+> “This doctor is reliable”
+
+👉 That belief = **Trust**
+
+---
+
+## 🔹 Key Points (Trust)
+
+* External perception (comes from others)
+* Built over time
+* Based on past behavior
+* Can be lost quickly
+
+---
+
+## 🔹 Key Difference (Very Important ⚠️)
+
+| Feature    | Ethics                     | Trust                     |
+| ---------- | -------------------------- | ------------------------- |
+| Nature     | Internal (your principles) | External (others’ belief) |
+| Control    | You control it             | Others decide it          |
+| Focus      | Right vs wrong behavior    | Confidence in you         |
+| Time       | Immediate (decision-based) | Built over time           |
+| Dependency | Independent                | Depends on your actions   |
+
+---
+
+## 🔹 Relationship Between Ethics & Trust
+
+> Ethics → Leads to → Trust
+
+👉 If you act ethically consistently:
+
+* People start trusting you
+
+👉 If you act unethically:
+
+* Trust breaks quickly
+
+---
+
+## 🔹 CFA Perspective 🧠
+
+* Ethics is **mandatory** (Code of Ethics & Standards)
+* Trust is **outcome** (market confidence)
+
+👉 Financial markets run on **trust**
+
+---
+
+## 🔹 Real-World Example
+
+* An analyst gives honest research → Ethical
+* Investors rely on that research → Trust
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+* Ethics = behavior
+* Trust = result
+
+👉 Remember:
+
+> “Ethics builds trust”
+
+---
+
+## 🔹 Quick Memory Trick
+
+* **Ethics = Doing right**
+* **Trust = Being believed**
+
+---
+
+## 🔹 One-Line Summary
+
+> Ethics is about doing the right thing, while trust is the confidence others place in you because of it.
+
+# 📊 Investment Profession – 3 Requirements (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+
+For any field to be called a **profession (like investment management)**, it must satisfy **three key requirements**:
+
+---
+
+## 🔹 1. Specialized Knowledge and Skills
+
+> Professionals must have advanced knowledge and expertise
+
+### Key Points:
+
+* Formal education and training
+* Continuous learning
+* Analytical and technical skills
+
+### Example:
+
+* Understanding financial statements
+* Valuing stocks and bonds
+
+---
+
+## 🔹 2. Service to Others
+
+> The profession must serve clients and society
+
+### Key Points:
+
+* Client interest comes first
+* Focus on public good
+* Not purely profit-driven
+
+### Example:
+
+* Giving suitable investment advice
+* Managing client money responsibly
+
+---
+
+## 🔹 3. Adherence to a Common Code of Ethics
+
+> Members must follow shared ethical standards
+
+### Key Points:
+
+* Follow **CFA Code of Ethics & Standards**
+* Maintain integrity and honesty
+* Build trust in the profession
+
+### Example:
+
+* Avoid insider trading
+* Disclose conflicts of interest
+
+---
+
+## 🔹 Simple Analogy
+
+Think of a **doctor 👨‍⚕️**:
+
+* Knowledge → Medical expertise
+* Service → Treat patients
+* Ethics → Follow medical code
+
+👉 Same applies to **investment professionals**
+
+---
+
+## 🔹 Important Clarification ⚠️
+
+Earlier confusion:
+
+* ❌ *Professionalism, Market Integrity, Client Duties* → These are **ethical standards**
+* ✅ *Knowledge, Service, Ethics* → These define a **profession**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> **KSE**
+
+* **K** → Knowledge
+* **S** → Service
+* **E** → Ethics
+
+---
+
+## 🔹 One-Line Summary
+
+> An investment profession requires expertise, service to clients, and adherence to ethical standards.
+
+# 📊 Situational Influences (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+
+**Situational Influences** are:
+
+> External factors or circumstances that affect a person’s behavior and decision-making
+
+👉 Even ethical people can act unethically due to situations
+
+---
+
+## 🔹 Simple Analogy
+
+Think of a student 📚:
+
+* Normally honest
+* But during exam, under pressure, may cheat
+
+👉 The **pressure (situation)** influenced behavior
+
+---
+
+## 🔹 Key Idea
+
+> Behavior = Personal Values + Situation
+
+👉 Situation can sometimes **override ethics**
+
+---
+
+## 🔹 Common Types of Situational Influences
+
+### 1. Incentives (Money/Bonus)
+
+* High bonuses for performance
+* Can encourage risk-taking or unethical actions
+
+---
+
+### 2. Pressure
+
+* Deadlines
+* Performance targets
+* Fear of losing job
+
+👉 May lead to shortcuts or manipulation
+
+---
+
+### 3. Authority Influence
+
+* Boss or senior pressure
+* “Do this even if it’s wrong”
+
+👉 People tend to obey authority
+
+---
+
+### 4. Group Behavior (Herding)
+
+* “Everyone is doing it”
+* Peer pressure
+
+👉 Leads to copying unethical actions
+
+---
+
+### 5. Information Bias
+
+* Limited or misleading information
+* Overconfidence
+
+---
+
+## 🔹 CFA Context 🧠
+
+* Important in **Ethics & Professional Standards**
+* Helps explain:
+
+  * Why ethical violations happen
+  * How to prevent them
+
+---
+
+## 🔹 Real-World Example
+
+* Analyst manipulates report
+* Reason: bonus linked to performance
+
+👉 Not lack of ethics, but **situational pressure**
+
+---
+
+## 🔹 How to Manage Situational Influences
+
+* Strong ethical culture
+* Clear rules and policies
+* Independent thinking
+* Whistleblower mechanisms
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+* Questions may describe:
+
+  * Pressure
+  * Incentives
+  * Authority
+
+👉 Identify the **situation influencing behavior**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> **PIAG**
+
+* **P** → Pressure
+* **I** → Incentives
+* **A** → Authority
+* **G** → Group behavior
+
+---
+
+## 🔹 One-Line Summary
+
+> Situational influences are external pressures or conditions that can affect ethical decision-making.
+
+# 📊 Proctor (CFA Context)
+
+---
+
+## 🔹 Definition
+**Proctor** is:
+
+> A person who supervises an exam to ensure rules are followed and no cheating occurs
+
+---
+
+## 🔹 Simple Analogy
+Think of a school exam 📝:
+
+- A teacher walks around the classroom  
+- Watches students  
+- Prevents cheating  
+
+👉 That person is the **Proctor**
+
+---
+
+## 🔹 Role of a Proctor
+
+- Monitor candidates during exam  
+- Ensure exam rules are followed  
+- Prevent cheating or misconduct  
+- Verify identity of candidates  
+
+---
+
+## 🔹 In CFA Exam Context 🧠
+
+- Proctors are present at test centers  
+- They ensure:
+  - No unfair practices  
+  - Exam integrity is maintained  
+
+---
+
+## 🔹 Example
+
+- If someone tries to use a phone during exam → Proctor intervenes  
+- If rules are broken → Proctor reports violation  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Proctor = Protector of exam integrity
+
+---
+
+## 🔹 One-Line Summary
+
+> A proctor is a person who supervises exams to ensure fairness and prevent cheating.
+
+# 📊 Professionalism (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Professionalism** is:
+
+> Conducting yourself with integrity, competence, diligence, and respect according to professional standards
+
+---
+
+## 🔹 Simple Analogy
+Think of a doctor 👨‍⚕️:
+
+- Gives correct treatment  
+- Behaves honestly  
+- Follows medical rules  
+
+👉 This behavior = **Professionalism**
+
+---
+
+## 🔹 Key Elements of Professionalism (CFA Focus)
+
+### 1. Integrity
+- Be honest and ethical  
+- Do not mislead or cheat  
+
+---
+
+### 2. Competence
+- Have proper knowledge and skills  
+- Keep learning and improving  
+
+---
+
+### 3. Diligence
+- Work carefully and responsibly  
+- Avoid negligence  
+
+---
+
+### 4. Respect for Rules
+- Follow laws and regulations  
+- Follow CFA Code of Ethics  
+
+---
+
+## 🔹 In CFA Standards 🧠
+
+Professionalism includes:
+
+- Knowledge of the law  
+- Independence and objectivity  
+- Misrepresentation (avoid false statements)  
+- Misconduct (avoid unethical behavior)  
+
+---
+
+## 🔹 Real-Life Example
+
+- Giving honest investment advice → Professional  
+- Hiding risks from clients → Not professional  
+
+---
+
+## 🔹 Why It Matters
+
+- Builds **trust in financial markets**  
+- Protects investors  
+- Maintains reputation of profession  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - Honesty vs dishonesty  
+  - Rule-following vs violation  
+  - Careful work vs negligence  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Professionalism = Right behavior + Right skills
+
+---
+
+## 🔹 One-Line Summary
+
+> Professionalism means behaving ethically and competently while following professional standards.
+
+# 📊 Capital Market (CFA Level 1)
+
+---
+
+## 🔹 Definition
+**Capital Market** is:
+
+> A market where long-term financial instruments are bought and sold
+
+👉 Used for raising **long-term funds (more than 1 year)**
+
+---
+
+## 🔹 Simple Analogy
+Think of a company 🏭:
+
+- Needs money to expand business  
+- Raises money from public  
+
+👉 Investors give money → Company gives shares/bonds  
+
+This exchange happens in the **Capital Market**
+
+---
+
+## 🔹 Types of Capital Markets
+
+### 1. Equity Market (Stock Market)
+- Buying/selling shares  
+- Investors become **owners**
+
+---
+
+### 2. Debt Market (Bond Market)
+- Buying/selling bonds  
+- Investors become **lenders**
+
+---
+
+## 🔹 Primary vs Secondary Market
+
+### Primary Market
+> Where new securities are issued
+
+- Example: IPO (Initial Public Offering)
+
+---
+
+### Secondary Market
+> Where existing securities are traded
+
+- Example: Stock exchanges  
+
+---
+
+## 🔹 Key Participants
+
+- Companies (raise funds)  
+- Investors (provide funds)  
+- Governments  
+- Financial institutions  
+
+---
+
+## 🔹 Key Features
+
+- Long-term investment  
+- Helps economic growth  
+- Provides liquidity  
+- Transfers funds from savers → borrowers  
+
+---
+
+## 🔹 Real-Life Example
+
+- You buy shares of a company → Capital market  
+- Government issues bonds → Capital market  
+
+---
+
+## 🔹 Difference from Money Market
+
+| Feature        | Capital Market        | Money Market        |
+|----------------|----------------------|--------------------|
+| Duration       | Long-term            | Short-term (<1 yr) |
+| Instruments    | Shares, Bonds        | T-bills, CP        |
+| Risk           | Higher               | Lower              |
+
+---
+
+## 🔹 CFA Insight 🧠
+
+- Capital markets are essential for:
+  - **Economic development**
+  - **Efficient allocation of capital**
+  - **Wealth creation**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Capital Market = Long-term money market
+
+---
+
+## 🔹 One-Line Summary
+
+> Capital market is where long-term funds are raised and traded through stocks and bonds.
+
+# 📊 Integrity (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Integrity** is:
+
+> Being honest, fair, and consistent in your actions, even when no one is watching
+
+---
+
+## 🔹 Simple Analogy
+Think of a shopkeeper 🏪:
+
+- Returns extra money if mistakenly given  
+- Does not cheat customers  
+
+👉 That behavior = **Integrity**
+
+---
+
+## 🔹 Key Characteristics
+
+### 1. Honesty
+- Tell the truth  
+- Do not mislead  
+
+---
+
+### 2. Fairness
+- Treat everyone equally  
+- No favoritism  
+
+---
+
+### 3. Consistency
+- Same behavior in all situations  
+- Not changing values for personal gain  
+
+---
+
+### 4. Moral Courage
+- Do the right thing even under pressure  
+
+---
+
+## 🔹 CFA Context 🧠
+
+Integrity is a **core principle** of the CFA Code of Ethics:
+
+- Act with integrity  
+- Put client interests first  
+- Maintain trust in financial markets  
+
+---
+
+## 🔹 Real-Life Example
+
+- Disclosing all risks to a client → Integrity  
+- Hiding negative information → Lack of integrity  
+
+---
+
+## 🔹 Why It Matters
+
+- Builds **trust**  
+- Maintains **market confidence**  
+- Protects investors  
+
+---
+
+## 🔹 Integrity vs Ethics (Quick Insight)
+
+- **Ethics** → Rules of right/wrong  
+- **Integrity** → Following those rules consistently  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - Honesty vs misrepresentation  
+  - Transparency vs hiding facts  
+  - Fair dealing vs bias  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Integrity = Doing right when unseen
+
+---
+
+## 🔹 One-Line Summary
+
+> Integrity means being honest and consistent in doing the right thing at all times.
+
+# 📊 Integrity of Capital Markets (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Integrity of Capital Markets** means:
+
+> Ensuring financial markets are fair, transparent, and free from unethical practices
+
+👉 Everyone should have **equal and honest access to information**
+
+---
+
+## 🔹 Simple Analogy
+Think of a cricket match 🏏:
+
+- If one team cheats → game becomes unfair  
+- If rules are followed → fair competition  
+
+👉 Same with markets:
+- No cheating → **Market integrity maintained**
+
+---
+
+## 🔹 Key Principles
+
+### 1. No Insider Trading
+- Do not use **confidential (non-public) information** for profit  
+
+---
+
+### 2. No Market Manipulation
+- Do not spread false information  
+- Do not artificially move prices  
+
+---
+
+### 3. Fair Access to Information
+- All investors should get information **at the same time**
+
+---
+
+## 🔹 CFA Context 🧠
+
+Part of CFA Standards:
+- Protects **investors**
+- Maintains **trust in markets**
+- Ensures **efficient pricing**
+
+---
+
+## 🔹 Real-Life Examples
+
+### ✅ Ethical Behavior
+- Publishing accurate research reports  
+- Disclosing all relevant information  
+
+---
+
+### ❌ Unethical Behavior
+- Trading before news release (insider trading)  
+- Spreading rumors to influence stock price  
+
+---
+
+## 🔹 Why It Matters
+
+- Builds **investor confidence**
+- Attracts investment  
+- Supports economic growth  
+
+---
+
+## 🔹 Impact of Violation
+
+- Loss of trust  
+- Market instability  
+- Legal penalties  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+Look for:
+- Use of **inside information**  
+- **False or misleading statements**  
+- **Unfair advantage**
+
+👉 These violate market integrity  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Market Integrity = Fair + Transparent + Honest
+
+---
+
+## 🔹 One-Line Summary
+
+> Integrity of capital markets ensures that financial markets operate fairly, transparently, and without manipulation or insider advantage.
