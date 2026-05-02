@@ -2067,3 +2067,961 @@ Financial instruments are the **building blocks of financial markets**
 ## 🔹 One-Line Summary
 
 > A financial instrument is a tradable contract that represents a financial claim between two parties.
+
+# 📊 Duties to Clients (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Duties to Clients** means:
+
+> Investment professionals must act in the best interest of their clients with loyalty, care, and fairness
+
+---
+
+## 🔹 Simple Analogy
+Think of a doctor 👨‍⚕️:
+
+- Always treats patient first  
+- Gives correct advice  
+- Keeps patient information private  
+
+👉 Same responsibility applies to **clients in finance**
+
+---
+
+## 🔹 Key Components (CFA Standards)
+
+### 1. Loyalty, Prudence, and Care
+> Put client’s interest above your own
+
+- Act as a **fiduciary**
+- Avoid conflicts of interest  
+
+---
+
+### 2. Fair Dealing
+> Treat all clients fairly
+
+- No favoritism  
+- Equal access to recommendations  
+
+---
+
+### 3. Suitability
+> Investment must match client needs
+
+- Consider:
+  - Risk tolerance  
+  - Financial goals  
+  - Time horizon  
+
+---
+
+### 4. Performance Presentation
+> Show accurate and complete performance
+
+- No misleading returns  
+- Full transparency  
+
+---
+
+### 5. Preservation of Confidentiality
+> Protect client information
+
+- Do not disclose without permission  
+- Exception: Legal requirement  
+
+---
+
+## 🔹 Real-Life Examples
+
+### ✅ Ethical
+- Recommending low-risk investment to a conservative client  
+
+### ❌ Unethical
+- Suggesting risky product for higher commission  
+
+---
+
+## 🔹 CFA Insight 🧠
+
+- Clients trust professionals with **money and decisions**
+- Violating this duty breaks **trust in the entire system**
+
+---
+
+## 🔹 Quick Summary Table
+
+| Duty                  | Meaning                          |
+|----------------------|----------------------------------|
+| Loyalty              | Client first                     |
+| Fair Dealing         | Equal treatment                  |
+| Suitability          | Right investment choice          |
+| Performance          | Honest reporting                 |
+| Confidentiality      | Protect information              |
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - Conflict of interest  
+  - Misleading performance  
+  - Wrong investment advice  
+
+👉 These indicate violation  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> **LFSPC**
+- Loyalty  
+- Fairness  
+- Suitability  
+- Performance  
+- Confidentiality  
+
+---
+
+## 🔹 One-Line Summary
+
+> Duties to clients require investment professionals to act in the client’s best interest with fairness, care, and confidentiality.
+
+# 📊 Solicit (CFA Level 1 Ethics Context)
+
+---
+
+## 🔹 Definition
+**Solicit** means:
+
+> To actively seek, request, or try to obtain something
+
+---
+
+## 🔹 Simple Meaning
+👉 “To ask for” or “to try to get”
+
+---
+
+## 🔹 Simple Analogy
+Think of a salesperson 🧑‍💼:
+
+- Calls customers  
+- Tries to convince them to buy a product  
+
+👉 This action = **Soliciting**
+
+---
+
+## 🔹 In CFA / Finance Context
+
+### 1. Soliciting Clients
+- Trying to **attract new clients**
+- Promoting investment services  
+
+---
+
+### 2. Soliciting Business
+- Asking clients to invest money  
+- Marketing financial products  
+
+---
+
+## 🔹 Important Ethical Angle ⚠️
+
+In CFA Ethics:
+
+> Solicitation is allowed, BUT must be **honest and not misleading**
+
+---
+
+### ✅ Ethical Solicitation
+- Providing accurate information  
+- Disclosing risks  
+- No false promises  
+
+---
+
+### ❌ Unethical Solicitation
+- Guaranteeing returns  
+- Hiding risks  
+- Misleading advertisements  
+
+---
+
+## 🔹 Example
+
+- “Invest with us, we will guarantee 20% return” ❌ (Unethical)  
+- “This investment has potential returns but involves risk” ✅ (Ethical)  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - False promises  
+  - Misleading statements  
+  - Pressure tactics  
+
+👉 These indicate **improper solicitation**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Solicit = Seek or ask for
+
+---
+
+## 🔹 One-Line Summary
+
+> To solicit means to actively seek or request business or clients, and in CFA context it must be done ethically and honestly.
+
+
+
+# 📊 Distort Prices (CFA Level 1 – Market Integrity)
+
+---
+
+## 🔹 Definition
+**Distort Prices** means:
+
+> Artificially influencing or manipulating the price of a financial asset so it does not reflect its true value
+
+👉 Price ≠ True value (because of manipulation)
+
+---
+
+## 🔹 Simple Analogy
+Think of a shopkeeper 🏪:
+
+- Spreads a rumor: “This product is rare!”  
+- Demand increases → price goes up artificially  
+
+👉 Actual value didn’t change, but price did  
+👉 This is **price distortion**
+
+---
+
+## 🔹 In Finance Context
+
+Price distortion happens when someone:
+
+- Spreads **false information**  
+- Creates **fake demand or supply**  
+- Uses **insider information**  
+
+---
+
+## 🔹 Common Ways Prices Are Distorted
+
+### 1. Market Manipulation
+- Buying/selling to move prices intentionally  
+
+---
+
+### 2. False or Misleading Information
+- Spreading rumors  
+- Fake news  
+
+---
+
+### 3. Insider Trading
+- Trading based on non-public information  
+
+---
+
+### 4. Pump and Dump Scheme
+- Inflate price → sell at high price  
+
+---
+
+## 🔹 Real-Life Example
+
+- Investor spreads positive rumor about a stock  
+- Others buy → price increases  
+- Investor sells at high price  
+
+👉 Price was **distorted**, not real
+
+---
+
+## 🔹 CFA Ethics Context 🧠
+
+- Violates **Integrity of Capital Markets**
+- Creates **unfair advantage**
+- Harms investors  
+
+---
+
+## 🔹 Why It Is Dangerous
+
+- Misleads investors  
+- Reduces market efficiency  
+- Breaks trust in financial system  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+Look for:
+- Artificial price movement  
+- False information  
+- Intent to mislead  
+
+👉 These indicate **price distortion**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Distort = Twist the truth
+
+---
+
+## 🔹 One-Line Summary
+
+> Distorting prices means manipulating asset prices so they no longer reflect their true economic value.
+
+
+# 📊 Advisory (CFA Level 1 Context)
+
+---
+
+## 🔹 Definition
+**Advisory** means:
+
+> Providing professional advice or guidance, especially in financial matters
+
+---
+
+## 🔹 Simple Meaning
+👉 “Giving expert advice”
+
+---
+
+## 🔹 Simple Analogy
+Think of a doctor 👨‍⚕️:
+
+- You go for health advice  
+- Doctor suggests treatment  
+
+👉 That service = **Advisory**
+
+---
+
+## 🔹 In Finance / CFA Context
+
+**Advisory services** include:
+
+- Investment advice  
+- Portfolio recommendations  
+- Financial planning  
+
+👉 Given by **investment advisors**
+
+---
+
+## 🔹 Key Features
+
+- Based on **expert knowledge**
+- Tailored to **client needs**
+- Involves **fiduciary responsibility**
+- May include fees  
+
+---
+
+## 🔹 Examples
+
+- Suggesting which stocks to invest in  
+- Advising on retirement planning  
+- Managing client portfolio  
+
+---
+
+## 🔹 Advisory vs Execution (Important ⚠️)
+
+| Feature     | Advisory                      | Execution                     |
+|------------|------------------------------|------------------------------|
+| Role        | Gives advice                 | Executes trades              |
+| Decision    | Advisor suggests             | Client decides               |
+| Focus       | Strategy                     | Transaction                  |
+
+---
+
+## 🔹 CFA Insight 🧠
+
+- Advisory requires:
+  - **Suitability analysis**
+  - Understanding client profile  
+- Must follow **ethical standards**
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- If question involves **recommendation → Advisory**
+- If question involves **just buying/selling → Execution**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Advisory = Advice
+
+---
+
+## 🔹 One-Line Summary
+
+> Advisory refers to providing professional financial advice to help clients make investment decisions.
+
+
+
+# 📊 Advisory Relationship (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Advisory Relationship** is:
+
+> A professional relationship where an advisor provides investment advice and the client relies on that advice for decision-making
+
+---
+
+## 🔹 Simple Analogy
+Think of a doctor–patient 👨‍⚕️:
+
+- Doctor gives treatment advice  
+- Patient trusts and follows it  
+
+👉 That trust-based connection = **Advisory Relationship**
+
+---
+
+## 🔹 Key Features
+
+### 1. Trust-Based Relationship
+- Client relies on advisor’s expertise  
+- High level of confidence  
+
+---
+
+### 2. Fiduciary Duty
+> Advisor must act in **best interest of client**
+
+- Put client first  
+- Avoid conflicts  
+
+---
+
+### 3. Ongoing Interaction
+- Not one-time advice  
+- Continuous guidance and monitoring  
+
+---
+
+### 4. Personalized Advice
+- Based on:
+  - Risk tolerance  
+  - Financial goals  
+  - Time horizon  
+
+---
+
+## 🔹 Responsibilities of Advisor
+
+- Provide **suitable recommendations**  
+- Disclose **risks and conflicts**  
+- Maintain **confidentiality**  
+- Act with **loyalty and care**  
+
+---
+
+## 🔹 Real-Life Example
+
+- You hire a financial advisor  
+- They suggest investments based on your goals  
+
+👉 That is an **advisory relationship**
+
+---
+
+## 🔹 Advisory vs Transactional Relationship ⚠️
+
+| Feature            | Advisory Relationship        | Transactional Relationship   |
+|------------------|------------------------------|------------------------------|
+| Nature           | Ongoing                      | One-time                     |
+| Role             | Advice + guidance            | Only execution               |
+| Responsibility   | High (fiduciary duty)        | Limited                      |
+| Focus            | Client goals                 | Specific transaction         |
+
+---
+
+## 🔹 CFA Insight 🧠
+
+- Strong advisory relationships are critical for:
+  - **Client trust**
+  - **Long-term wealth management**
+- Requires strict adherence to **ethical standards**
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - Ongoing advice  
+  - Client reliance  
+  - Personalized recommendations  
+
+👉 Indicates **advisory relationship**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Advisory Relationship = Advice + Trust
+
+---
+
+## 🔹 One-Line Summary
+
+> An advisory relationship is a trust-based, ongoing relationship where an advisor provides personalized investment advice and acts in the client’s best interest.
+
+
+# 📊 Fiduciary Responsibility (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Fiduciary Responsibility** is:
+
+> A legal and ethical duty to act in the best interest of another party (client) with loyalty, care, and honesty
+
+---
+
+## 🔹 Simple Meaning
+👉 “Client first, always”
+
+---
+
+## 🔹 Simple Analogy
+Think of a guardian 👨‍👦:
+
+- Manages money for a child  
+- Must use it only for the child’s benefit  
+
+👉 This duty = **Fiduciary Responsibility**
+
+---
+
+## 🔹 Key Elements
+
+### 1. Duty of Loyalty
+- Put client’s interest above your own  
+- Avoid conflicts of interest  
+
+---
+
+### 2. Duty of Care
+- Act with skill, diligence, and prudence  
+- Make well-informed decisions  
+
+---
+
+### 3. Duty of Good Faith
+- Be honest and transparent  
+- Do not mislead  
+
+---
+
+## 🔹 In CFA Context 🧠
+
+Investment professionals must:
+
+- Act for **benefit of clients**
+- Ensure **fair dealing**
+- Provide **suitable advice**
+
+---
+
+## 🔹 Real-Life Examples
+
+### ✅ Ethical
+- Recommending low-risk investment to a conservative client  
+
+### ❌ Unethical
+- Suggesting high-commission product for personal gain  
+
+---
+
+## 🔹 Why It Matters
+
+- Builds **trust**
+- Protects investors  
+- Ensures fair markets  
+
+---
+
+## 🔹 Fiduciary vs Normal Responsibility ⚠️
+
+| Feature            | Fiduciary Responsibility | Normal Responsibility |
+|------------------|--------------------------|-----------------------|
+| Priority          | Client first             | Self or mixed         |
+| Duty Level        | Very high                | Moderate              |
+| Legal Obligation  | Strong                   | Limited               |
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- Look for:
+  - Conflict of interest  
+  - Self-benefit vs client benefit  
+  - Suitability issues  
+
+👉 Violations = breach of fiduciary duty  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Fiduciary = “Faith + Trust”
+
+---
+
+## 🔹 One-Line Summary
+
+> Fiduciary responsibility requires professionals to act with loyalty and care, always putting the client’s interest first.
+
+
+# 📊 Conflict of Interest (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Conflict of Interest** is:
+
+> A situation where a person’s personal interests may interfere with their duty to act in the best interest of a client
+
+---
+
+## 🔹 Simple Meaning
+👉 “When personal gain conflicts with professional duty”
+
+---
+
+## 🔹 Simple Analogy
+Think of a doctor 👨‍⚕️:
+
+- Gets commission for prescribing a certain medicine  
+- Chooses that medicine even if not best for patient  
+
+👉 Personal benefit vs patient interest = **Conflict of Interest**
+
+---
+
+## 🔹 Key Idea
+
+> Two competing interests:
+- **Client’s best interest**
+- **Personal or firm’s interest**
+
+---
+
+## 🔹 Common Examples (CFA Context)
+
+### 1. Commission-Based Recommendations
+- Recommending products with higher commission  
+
+---
+
+### 2. Personal Trading
+- Buying stocks before recommending to clients  
+
+---
+
+### 3. Gifts and Benefits
+- Accepting gifts from companies  
+
+---
+
+### 4. Multiple Clients
+- Favoring one client over another  
+
+---
+
+## 🔹 Types of Conflict
+
+### 1. Actual Conflict
+- Conflict already exists  
+
+### 2. Potential Conflict
+- May arise in future  
+
+---
+
+## 🔹 CFA Approach 🧠
+
+> Conflicts are not always avoidable, but must be:
+
+- **Disclosed**  
+- **Managed**  
+- **Avoided if possible**
+
+---
+
+## 🔹 Real-Life Example
+
+- Advisor recommends Fund A because of higher commission ❌  
+- Even if Fund B is better for client  
+
+👉 Conflict of interest exists  
+
+---
+
+## 🔹 Why It Matters
+
+- Can harm clients  
+- Reduces trust  
+- Leads to unethical decisions  
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+Look for:
+- Personal benefit  
+- Hidden incentives  
+- Lack of disclosure  
+
+👉 Indicates conflict  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Conflict = Clash of interests
+
+---
+
+## 🔹 One-Line Summary
+
+> A conflict of interest occurs when personal or financial interests interfere with acting in a client’s best interest.
+
+---
+
+
+# 📊 Material Information (CFA Level 1 Ethics)
+
+---
+
+## 🔹 Definition
+**Material Information** is:
+
+> Information that, if known, could affect an investor’s decision to buy or sell a security
+
+---
+
+## 🔹 Simple Meaning
+👉 “Important information that can move price or decisions”
+
+---
+
+## 🔹 Simple Analogy
+Think of a company 🏭:
+
+- News: “Company profits doubled”  
+
+👉 Investors will likely **buy the stock**  
+
+👉 This information is **material** because it affects decisions
+
+---
+
+## 🔹 Key Idea
+
+> If information can impact price or investor decision → It is **material**
+
+---
+
+## 🔹 Examples of Material Information
+
+- Earnings results (profit/loss)  
+- Mergers or acquisitions  
+- New product launches  
+- Major lawsuits  
+- Management changes  
+
+---
+
+## 🔹 Non-Material Information (for contrast)
+
+- Office repainting  
+- Minor internal changes  
+
+👉 Does NOT affect investment decision  
+
+---
+
+## 🔹 Material + Non-Public = Very Important ⚠️
+
+> Using **material non-public information** = Insider Trading (illegal)
+
+---
+
+### Example:
+- You know company will announce huge profit tomorrow  
+- You buy stock today  
+
+👉 This is **unethical and illegal**
+
+---
+
+## 🔹 CFA Context 🧠
+
+Investment professionals must:
+
+- Not act on **material non-public information**  
+- Ensure **fair access to information**  
+
+---
+
+## 🔹 Real-Life Example
+
+- Insider knows merger news before public  
+- Trades stock for profit  
+
+👉 Violates **market integrity**
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+Ask:
+- Does it affect price?  
+- Would investor care?  
+
+👉 If YES → Material  
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Material = Matters to investors
+
+---
+
+## 🔹 One-Line Summary
+
+> Material information is any information that can influence an investor’s decision or affect the price of a security.
+
+
+# 📊 Public Offering (CFA Level 1)
+
+---
+
+## 🔹 Definition
+**Public Offering** is:
+
+> The sale of securities (shares or bonds) to the general public to raise capital
+
+---
+
+## 🔹 Simple Meaning
+👉 “Company selling shares to public to raise money”
+
+---
+
+## 🔹 Simple Analogy
+Think of a business 🏭:
+
+- Needs money to expand  
+- Instead of borrowing, it asks public to invest  
+
+👉 People invest → Company gives shares  
+
+👉 This process = **Public Offering**
+
+---
+
+## 🔹 Types of Public Offering
+
+### 1. Initial Public Offering (IPO)
+> First time a company offers shares to public
+
+- Private → Public company  
+
+---
+
+### 2. Follow-on Public Offering (FPO)
+> Company already listed issues more shares
+
+- Raises additional capital  
+
+---
+
+## 🔹 Key Features
+
+- Open to **general public investors**  
+- Requires **regulatory approval**  
+- Must provide **full disclosure** (prospectus)  
+
+---
+
+## 🔹 Process (Simplified)
+
+1. Company decides to raise funds  
+2. Prepares prospectus (financial details)  
+3. Gets regulatory approval  
+4. Offers shares to public  
+5. Shares start trading in market  
+
+---
+
+## 🔹 Real-Life Example
+
+- A startup launches IPO  
+- Public buys shares  
+- Company raises capital  
+
+---
+
+## 🔹 CFA Insight 🧠
+
+- Happens in **Primary Market**  
+- Important for:
+  - Capital formation  
+  - Business expansion  
+
+---
+
+## 🔹 Public vs Private Offering ⚠️
+
+| Feature            | Public Offering        | Private Offering       |
+|------------------|------------------------|------------------------|
+| Investors         | General public         | Selected investors     |
+| Regulation        | High                   | Lower                  |
+| Disclosure        | Full                   | Limited                |
+
+---
+
+## 🔹 Exam Tips ⚠️
+
+- IPO = first time  
+- FPO = additional issue  
+- Always linked to **primary market**
+
+---
+
+## 🔹 Quick Memory Trick
+
+> Public Offering = Public investing
+
+---
+
+## 🔹 One-Line Summary
+
+> Public offering is the process by which a company raises capital by selling securities to the general public.
+
